@@ -25,6 +25,7 @@ The project is currently in its initial stages. I plan to incorporate additional
 ## API Documentation
 
 Upon launching the program, we can go to http://localhost:8080/swagger-ui/index.html#/ to access to the list of rest endpoints of the program:
+
 ![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/b676e22c-164a-48d1-8682-afc56f6489a1)
 ![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/3dfeb0ba-9257-4382-a20f-1977c72c96c1)
 ![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/e00442aa-e278-4de9-b8eb-7e843b5a9f65)
