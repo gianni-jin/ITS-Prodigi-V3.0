@@ -25,12 +25,17 @@ The project is currently in its initial stages. I plan to incorporate additional
 ## API Documentation
 
 Upon launching the program, we can go to http://localhost:8080/swagger-ui/index.html#/ to access to the list of rest endpoints of the program:
+![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/b676e22c-164a-48d1-8682-afc56f6489a1)
+![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/3dfeb0ba-9257-4382-a20f-1977c72c96c1)
+![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/e00442aa-e278-4de9-b8eb-7e843b5a9f65)
+![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/57fc0831-4c84-4530-91d8-afa23646d5f8)
+![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/d50cef8b-2262-4e40-9ca5-bc987f057d6f)
 
 
 
 
 ## Database Schema
-![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/6403cdf0-a60d-4858-aac6-8f5a52702ed7)
+![image](https://github.com/gianni-jin/ITS-Prodigi-V3.0/assets/129873947/c8843627-6b16-4ae5-93fc-ef685eda7490)
 
 # Code Structure
 The program follows the MVC model structure, emphasizing the separation of concerns and clear delineation of responsibilities. 
